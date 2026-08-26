@@ -9,8 +9,8 @@
         {
           "id": "reading-room",
           "name": "Sala de Leitura",
-          "file": "wallpapers/literature/reading-room.jpg",
-          "format": "jpg",
+          "file": "wallpapers/literature/reading-room.png",
+          "format": "png",
           "orientation": "portrait",
           "tags": [
             "literatura",
