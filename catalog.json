@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "name": "Kobo Wallpapers",
   "categories": [
     {
@@ -12,7 +12,12 @@
           "file": "wallpaper/literature/reading-room.png",
           "format": "png",
           "orientation": "portrait",
-          "tags": ["literatura", "biblioteca", "fantasia", "dark-academia"]
+          "tags": [
+            "literatura",
+            "biblioteca",
+            "fantasia",
+            "dark-academia"
+          ]
         }
       ]
     },
@@ -26,7 +31,13 @@
           "file": "wallpaper/fantasy/jornada.png",
           "format": "png",
           "orientation": "portrait",
-          "tags": ["fantasy", "aventura", "montanhas", "viajante", "tolkien"]
+          "tags": [
+            "fantasy",
+            "aventura",
+            "montanhas",
+            "viajante",
+            "tolkien"
+          ]
         }
       ]
     },
@@ -40,7 +51,13 @@
           "file": "wallpaper/sci-fi/distant-worlds.png",
           "format": "png",
           "orientation": "portrait",
-          "tags": ["sci-fi", "space", "planets", "exploration", "cosmic"]
+          "tags": [
+            "sci-fi",
+            "space",
+            "planets",
+            "exploration",
+            "cosmic"
+          ]
         }
       ]
     },
@@ -54,7 +71,14 @@
           "file": "wallpaper/dark-fantasy/fallen-kingdom.png",
           "format": "png",
           "orientation": "portrait",
-          "tags": ["dark-fantasy", "ruins", "fallen-kingdom", "fog", "medieval", "melancholy"]
+          "tags": [
+            "dark-fantasy",
+            "ruins",
+            "fallen-kingdom",
+            "fog",
+            "medieval",
+            "melancholy"
+          ]
         }
       ]
     },
@@ -68,28 +92,34 @@
           "file": "wallpaper/dark-academia/silent-cloister.png",
           "format": "png",
           "orientation": "portrait",
-          "tags": ["dark-academia", "gothic", "cloister", "university", "books", "autumn"]
+          "tags": [
+            "dark-academia",
+            "gothic",
+            "cloister",
+            "university",
+            "books",
+            "autumn"
+          ]
+        },
+        {
+          "id": "scholars-garden",
+          "name": "Jardim dos Eruditos",
+          "file": "wallpaper/dark-academia/scholars-garden.png",
+          "format": "png",
+          "orientation": "portrait",
+          "tags": [
+            "dark-academia",
+            "garden",
+            "autumn",
+            "books",
+            "watercolor",
+            "sketchbook",
+            "cozy",
+            "melancholic",
+            "dreamy"
+          ]
         }
       ]
-              ]
-      },
-      {
-        "id": "scholars-garden",
-        "name": "Jardim dos Eruditos",
-        "file": "wallpaper/dark-academia/scholars-garden.png",
-        "format": "png",
-        "orientation": "portrait",
-        "tags": [
-          "dark-academia",
-          "garden",
-          "autumn",
-          "books",
-          "watercolor",
-          "sketchbook",
-          "cozy",
-          "melancholic"
-        ]
-      }
     }
   ]
 }
