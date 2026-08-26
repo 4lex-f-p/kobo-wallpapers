@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "name": "Kobo Wallpapers",
   "categories": [
     {
@@ -17,6 +17,26 @@
             "biblioteca",
             "fantasia",
             "dark-academia"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fantasy",
+      "name": "Fantasy",
+      "wallpapers": [
+        {
+          "id": "jornada",
+          "name": "Jornada",
+          "file": "wallpaper/fantasy/jornada.png",
+          "format": "png",
+          "orientation": "landscape",
+          "tags": [
+            "fantasy",
+            "aventura",
+            "montanhas",
+            "viajante",
+            "tolkien"
           ]
         }
       ]
