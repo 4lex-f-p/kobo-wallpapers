@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "name": "Kobo Wallpapers",
   "categories": [
     {
@@ -37,6 +37,26 @@
             "montanhas",
             "viajante",
             "tolkien"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sci-fi",
+      "name": "Sci-Fi",
+      "wallpapers": [
+        {
+          "id": "distant-worlds",
+          "name": "Mundos Distantes",
+          "file": "wallpaper/sci-fi/distant-worlds.png",
+          "format": "png",
+          "orientation": "portrait",
+          "tags": [
+            "sci-fi",
+            "space",
+            "planets",
+            "exploration",
+            "cosmic"
           ]
         }
       ]
