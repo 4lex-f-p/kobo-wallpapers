@@ -71,6 +71,25 @@
           "tags": ["dark-academia", "gothic", "cloister", "university", "books", "autumn"]
         }
       ]
+              ]
+      },
+      {
+        "id": "scholars-garden",
+        "name": "Jardim dos Eruditos",
+        "file": "wallpaper/dark-academia/scholars-garden.png",
+        "format": "png",
+        "orientation": "portrait",
+        "tags": [
+          "dark-academia",
+          "garden",
+          "autumn",
+          "books",
+          "watercolor",
+          "sketchbook",
+          "cozy",
+          "melancholic"
+        ]
+      }
     }
   ]
 }
