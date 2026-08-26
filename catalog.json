@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "name": "Kobo Wallpapers",
   "categories": [
     {
@@ -57,6 +57,27 @@
             "planets",
             "exploration",
             "cosmic"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dark-fantasy",
+      "name": "Fantasia Sombria",
+      "wallpapers": [
+        {
+          "id": "fallen-kingdom",
+          "name": "Reino Caído",
+          "file": "wallpaper/dark-fantasy/fallen-kingdom.png",
+          "format": "png",
+          "orientation": "portrait",
+          "tags": [
+            "dark-fantasy",
+            "ruins",
+            "fallen-kingdom",
+            "fog",
+            "medieval",
+            "melancholy"
           ]
         }
       ]
