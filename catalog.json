@@ -1,5 +1,25 @@
 {
   "version": 1,
   "name": "Kobo Wallpapers",
-  "categories": []
+  "categories": [
+    {
+      "id": "literature",
+      "name": "Literatura",
+      "wallpapers": [
+        {
+          "id": "reading-room",
+          "name": "Sala de Leitura",
+          "file": "wallpapers/literature/reading-room.jpg",
+          "format": "jpg",
+          "orientation": "portrait",
+          "tags": [
+            "literatura",
+            "biblioteca",
+            "fantasia",
+            "dark-academia"
+          ]
+        }
+      ]
+    }
+  ]
 }
