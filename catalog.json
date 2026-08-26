@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "name": "Kobo Wallpapers",
   "categories": [
     {
@@ -52,6 +52,13 @@
       "id": "literature",
       "name": "Literatura",
       "wallpapers": [
+        {
+          "id": "rainy-afternoon",
+          "name": "Rainy Afternoon",
+          "file": "wallpaper/literature/rainy-afternoon.png",
+          "format": "png",
+          "orientation": "portrait"
+        },
         {
           "id": "reading-room",
           "name": "Sala de Leitura",
