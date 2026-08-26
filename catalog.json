@@ -1,63 +1,24 @@
 {
-  "version": 6,
+  "version": 7,
   "name": "Kobo Wallpapers",
   "categories": [
     {
-      "id": "literature",
-      "name": "Literatura",
+      "id": "dark-academia",
+      "name": "Dark Academia",
       "wallpapers": [
         {
-          "id": "reading-room",
-          "name": "Sala de Leitura",
-          "file": "wallpaper/literature/reading-room.png",
+          "id": "scholars-garden",
+          "name": "Jardim dos Eruditos",
+          "file": "wallpaper/dark-academia/scholars-garden.png",
           "format": "png",
-          "orientation": "portrait",
-          "tags": [
-            "literatura",
-            "biblioteca",
-            "fantasia",
-            "dark-academia"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "fantasy",
-      "name": "Fantasy",
-      "wallpapers": [
+          "orientation": "portrait"
+        },
         {
-          "id": "jornada",
-          "name": "Jornada",
-          "file": "wallpaper/fantasy/jornada.png",
+          "id": "silent-cloister",
+          "name": "Claustro Silencioso",
+          "file": "wallpaper/dark-academia/silent-cloister.png",
           "format": "png",
-          "orientation": "portrait",
-          "tags": [
-            "fantasy",
-            "aventura",
-            "montanhas",
-            "viajante",
-            "tolkien"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "sci-fi",
-      "name": "Sci-Fi",
-      "wallpapers": [
-        {
-          "id": "distant-worlds",
-          "name": "Mundos Distantes",
-          "file": "wallpaper/sci-fi/distant-worlds.png",
-          "format": "png",
-          "orientation": "portrait",
-          "tags": [
-            "sci-fi",
-            "space",
-            "planets",
-            "exploration",
-            "cosmic"
-          ]
+          "orientation": "portrait"
         }
       ]
     },
@@ -70,54 +31,46 @@
           "name": "Reino Caído",
           "file": "wallpaper/dark-fantasy/fallen-kingdom.png",
           "format": "png",
-          "orientation": "portrait",
-          "tags": [
-            "dark-fantasy",
-            "ruins",
-            "fallen-kingdom",
-            "fog",
-            "medieval",
-            "melancholy"
-          ]
+          "orientation": "portrait"
         }
       ]
     },
     {
-      "id": "dark-academia",
-      "name": "Dark Academia",
+      "id": "fantasy",
+      "name": "Fantasy",
       "wallpapers": [
         {
-          "id": "silent-cloister",
-          "name": "Claustro Silencioso",
-          "file": "wallpaper/dark-academia/silent-cloister.png",
+          "id": "jornada",
+          "name": "Jornada",
+          "file": "wallpaper/fantasy/jornada.png",
           "format": "png",
-          "orientation": "portrait",
-          "tags": [
-            "dark-academia",
-            "gothic",
-            "cloister",
-            "university",
-            "books",
-            "autumn"
-          ]
-        },
+          "orientation": "portrait"
+        }
+      ]
+    },
+    {
+      "id": "literature",
+      "name": "Literatura",
+      "wallpapers": [
         {
-          "id": "scholars-garden",
-          "name": "Jardim dos Eruditos",
-          "file": "wallpaper/dark-academia/scholars-garden.png",
+          "id": "reading-room",
+          "name": "Sala de Leitura",
+          "file": "wallpaper/literature/reading-room.png",
           "format": "png",
-          "orientation": "portrait",
-          "tags": [
-            "dark-academia",
-            "garden",
-            "autumn",
-            "books",
-            "watercolor",
-            "sketchbook",
-            "cozy",
-            "melancholic",
-            "dreamy"
-          ]
+          "orientation": "portrait"
+        }
+      ]
+    },
+    {
+      "id": "sci-fi",
+      "name": "Sci-Fi",
+      "wallpapers": [
+        {
+          "id": "distant-worlds",
+          "name": "Mundos Distantes",
+          "file": "wallpaper/sci-fi/distant-worlds.png",
+          "format": "png",
+          "orientation": "portrait"
         }
       ]
     }
