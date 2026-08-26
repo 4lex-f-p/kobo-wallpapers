@@ -1,6 +1,11 @@
 name: Update wallpaper catalog
 
 on:
+  # Permite executar manualmente pelo botão "Run workflow"
+  workflow_dispatch:
+
+  # Executa automaticamente quando houver alterações nos wallpapers
+  # ou no próprio gerador do catálogo
   push:
     branches:
       - main
@@ -26,6 +31,11 @@ jobs:
 
       - name: Generate catalog
         run: python generate_catalog.py
+
+      - name: Check generated catalog
+        run: |
+          echo "Generated catalog:"
+          cat catalog.json
 
       - name: Commit updated catalog
         run: |
